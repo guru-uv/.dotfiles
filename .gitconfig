@@ -1,0 +1,6 @@
+[url "git@github.com:ultraviolette-automotive"]
+	insteadOf = https://github.com/ultraviolette-automotive
+[core]
+	sshCommand = ssh -i /home/guru/.ssh/guru-uv_gh
+[init]
+	defaultBranch = main
